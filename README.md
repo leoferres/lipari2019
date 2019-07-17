@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is the invited talk for [LocWeb19](https://secs19.lipari.it/).
+This is the invited talk for [Lipari Complex Systems School](https://secs19.lipari.it/), in Lipari, Italy.
 
 ## Build
 
